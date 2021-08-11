@@ -50,10 +50,10 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <a href="https://www.instagram.com/synbioshield_nz">Instagram</a>
+            <a href="https://www.facebook.com/SynbioShieldNZ">facebook</a>
+            <a href="https://twitter.com/synbioshieldNZ">Twitter</a>
+            <a href="https://www.linkedin.com/synbio-shield-nz">Linkedin</a>
           </div>
         </div>
       </div>
