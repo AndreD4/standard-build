@@ -5,40 +5,40 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>HAERE MAI!</h1>
+      <h1></h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
               src=''
-              text='honey products'
-              label='Honey&Bees product'
+              text=''
+              label=''
               path='/services'
             />
             <CardItem
               src=''
-              text='Maori medicine and natural remedys'
-              label='Health'
+              text=''
+              label=''
               path='/services'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src=''
-              text='Discover our process and the mahi we put into our products'
-              label='Eduction'
+              text=''
+              label=''
               path='/services'
             />
             <CardItem
               src=''
-              text='Journey to the history and purpose of these products'
-              label='History'
+              text=''
+              label=''
               path='/products'
             />
             <CardItem
               src=''
-              text='Get updated and info on stock and new items'
-              label='Update'
+              text=''
+              label=''
               path='/sign-up'
             />
           </ul>
