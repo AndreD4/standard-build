@@ -9,38 +9,6 @@ function Cards() {
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
-            <CardItem
-              src=''
-              text=''
-              label=''
-              path='/services'
-            />
-            <CardItem
-              src=''
-              text=''
-              label=''
-              path='/services'
-            />
-          </ul>
-          <ul className='cards__items'>
-            <CardItem
-              src=''
-              text=''
-              label=''
-              path='/services'
-            />
-            <CardItem
-              src=''
-              text=''
-              label=''
-              path='/products'
-            />
-            <CardItem
-              src=''
-              text=''
-              label=''
-              path='/sign-up'
-            />
           </ul>
         </div>
       </div>
@@ -49,3 +17,4 @@ function Cards() {
 }
 
 export default Cards;
+

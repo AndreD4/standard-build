@@ -16,12 +16,12 @@ function Footer() {
         <div className='input-areas'>
           <form>
             <input
-              className='footer-input'
-              name='email'
-              type='email'
-              placeholder='Your Email'
+              //className='footer-input'
+              //name='email'
+             // type='email'
+             // placeholder='Your Email'
             />
-            <Button buttonStyle='btn--outline'></Button>
+            
           </form>
         </div>
       </section>
@@ -61,11 +61,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              MADA
+              SynBioShield
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>MADA © 2021</small>
+          <small class='website-rights'>SynBioShield © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
